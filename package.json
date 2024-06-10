@@ -41,6 +41,7 @@
     "css-minimizer-webpack-plugin": "^3.1.1",
     "file-loader": "^6.2.0",
     "fs-extra": "^10.0.0",
+    "hugo-bin": "^0.124.0",
     "javascript-obfuscator": "^2.19.0",
     "js-yaml": "^4.1.0",
     "jsdom": "^17.0.0",
@@ -63,8 +64,10 @@
     "yarn": "^1.22.17"
   },
   "dependencies": {
+    "@chatscope/chat-ui-kit-react": "^2.0.3",
     "@popperjs/core": "^2.10.2",
     "apexcharts": "^3.29.0",
-    "flowbite": "^2.1.1"
+    "flowbite": "^2.1.1",
+    "hugo": "^0.0.3"
   }
 }
